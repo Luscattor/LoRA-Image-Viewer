@@ -1,0 +1,1 @@
+.venv/Scripts/python.exe Lora_Folder_Viewer.py
